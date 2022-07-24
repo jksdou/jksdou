@@ -4,6 +4,6 @@
 
 😄 I’m Jackson Dou
 
-💻 Frontend developer
+💻 Frontend Engineer
 
 🇨🇳 Shanghai, China
