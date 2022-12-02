@@ -1,9 +1,14 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=jksdou&show_icons=true&hide_title=true" />
-
 ### Hi there 👋
 
-😄 I’m Jackson Dou
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=jksdou&show_icons=true&hide_title=true" />
 
-💻 Frontend Engineer
+😄 I’m **Jackson Dou**, from 🇨🇳 China, base in Shanghai
 
-🇨🇳 Shanghai, China
+💻 Senior Frontend Engineer(main)
+  - 8 years experiences
+  - VueJS / HTML / JS / CSS
+
+🧩 Full stack Developer(second)
+
+  - I also can write PHP、Python project
+
