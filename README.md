@@ -5,10 +5,7 @@
 😄 I’m **Jackson Dou**, from 🇨🇳 China, base in Shanghai
 
 💻 Senior Frontend Engineer(main)
-  - 8 years experiences
-  - VueJS / HTML / JS / CSS
 
 🧩 Full stack Developer(second)
-
-  - I also can write PHP、Python project
-
+  - VueJS / HTML / JS / CSS
+  - PHP/Python/Linux/MySQL
