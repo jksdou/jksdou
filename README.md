@@ -6,6 +6,8 @@
 
 💻 Senior Frontend Engineer(main)
 
+  - VueJS / ReactJS / HTML / JS / CSS
+
 🧩 Full stack Developer(second)
-  - VueJS / HTML / JS / CSS
+
   - PHP/Python/Linux/MySQL
